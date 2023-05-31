@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Lucas :D
+### Hi there 👋
 
-- 🔭 I’m currently working at CI&T 
+- 🔭 I’m currently working at MBLabs
 - ⚡ Hobbies: Watch anime and develop apps 
 
 <div>
