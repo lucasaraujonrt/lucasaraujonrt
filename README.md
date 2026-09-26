@@ -10,6 +10,4 @@ Software engineer at Nomad, in Campinas. I build TypeScript tools for coding age
 - **[agent-media-jobs](https://github.com/lucasaraujonrt/agent-media-jobs)** — Paid media jobs with an approval hash, a single submit, and verified file delivery. [Site](https://lucasaraujonrt.github.io/agent-media-jobs/)
 - **[meta-ops-mcp](https://github.com/lucasaraujonrt/meta-ops-mcp)** — Scoped Meta Graph tools. Campaign changes require a separate approval. [Site](https://lucasaraujonrt.github.io/meta-ops-mcp/)
 
-Before this, most of the public work was React Native: templates, Reanimated studies, and a finance dashboard at [nrt-dashboard.vercel.app](https://nrt-dashboard.vercel.app).
-
 [LinkedIn](https://www.linkedin.com/in/lucasaraujonrt) · [X](https://x.com/lucasaraujonrt)
